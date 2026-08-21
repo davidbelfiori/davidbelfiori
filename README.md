@@ -2,7 +2,7 @@
 
 <p align="center">
   Computer Engineering student at the University of Rome Tor Vergata<br/>
-  Interested in software engineering, application architecture and mobile development.
+  Passionate about computer networks and databases, with a strong interest in software engineering.
 </p>
 
 <p align="center">
@@ -11,9 +11,9 @@
 
 ## 👨‍💻 About me
 
-I am a Computer Engineering student passionate about building clean and maintainable software.
+I am a Computer Engineering student with a particular interest in computer networks and database systems.
 
-My main interests include object-oriented programming, software architecture, design patterns, databases, desktop applications, and Android development. I enjoy taking a project from requirements analysis to implementation, with attention to code structure and usability.
+I enjoy understanding how systems communicate, how data is designed, organised, and managed efficiently, and how these aspects come together in real applications. I also have a strong interest in software engineering, especially object-oriented programming, software architecture, design patterns, and clean code practices.
 
 ## 🚀 Featured projects
 
@@ -49,18 +49,20 @@ University project for the management of a travel agency database.
 ## 🛠️ Tech stack
 
 * **Languages:** Java, Kotlin, SQL, C
+* **Networks & databases:** Computer Networks, MariaDB, MySQL, JDBC
 * **Desktop & mobile:** JavaFX, Android development
-* **Databases:** MariaDB, MySQL, JDBC
 * **Tools:** Maven, Git, JUnit 5, Android Studio
 * **Software engineering:** OOP, MVC, DAO, Design Patterns, relational database design
 
 ## 📚 Currently exploring
 
-Software architecture, clean code, design patterns, database design, and mobile development.
+Computer networks, database systems, software architecture, clean code, and design patterns.
 
 ## 🔥 GitHub activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=davidbelfiori&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=davidbelfiori&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
 <p align="center">
   Feel free to explore my repositories and connect with me!
